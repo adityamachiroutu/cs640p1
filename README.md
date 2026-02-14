@@ -1,2 +1,1 @@
-# cs640p1
-AAAHHHH
+640p1
